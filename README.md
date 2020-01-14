@@ -5,7 +5,7 @@
 
 ## Features:
 
-- DRM bypass - Download all songs directly from Spotify servers --> https://www.youtube.com/watch?v=lxKNsYW9vto
+- DRM bypass - Download all songs directly from Spotify servers --> https://www.youtube.com/watch?v=E8a-dB1HIQU
 - Enabled skip button for ads (including audio and video ads)
 - Auto skipping audio ads
 
