@@ -1,6 +1,7 @@
 # XSpotify
 
 ### A modified Spotify client
+![alt text](https://i.imgur.com/iJ0z7vn.png)
 
 
 ## Features:
