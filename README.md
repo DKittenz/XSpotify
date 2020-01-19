@@ -3,6 +3,8 @@
 ### A modified Spotify client
 ![alt text](https://i.imgur.com/iJ0z7vn.png)
 
+[![HitCount](http://hits.dwyl.io/meik97/XSpotify.svg)](http://hits.dwyl.io/meik97/XSpotify)
+
 
 ## Features:
 
