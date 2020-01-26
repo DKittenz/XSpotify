@@ -1,7 +1,7 @@
 # XSpotify
 
 ### A modified Spotify client for Windows
-![alt text](https://i.imgur.com/iJ0z7vn.png)
+![Screenshot](https://i.imgur.com/iJ0z7vn.png)
 
 [![HitCount](http://hits.dwyl.io/meik97/XSpotify.svg)](https://github.com/meik97/XSpotify)
 [![HitCount](https://img.shields.io/github/downloads/meik97/XSpotify/total.svg?color=green)](https://github.com/meik97/XSpotify/releases)
@@ -10,9 +10,14 @@
 ## Features:
 
 - DRM bypass: Download all songs directly from Spotify servers --> https://www.youtube.com/watch?v=E8a-dB1HIQU
-- Enabled skip button for ads (including audio and video ads)
-- Auto skipping of audio based ads
+- Enabled the skip button for ads blocking (includes audio and video ads)
+- Auto skipping function for audio based ads
 - Quality and format: 160 kb/s, 32-bit, 44100 Hz .ogg
+
+
+## Requirements:
+
+You need Microsoft's [Visual C++ Redistributable Runtimes](https://github.com/abbodi1406/vcredist) installed.
 
 ## How to use:
 
@@ -23,7 +28,7 @@
 After you have started XSpotify, the console window will appear. 
   
   
-![alt text](https://i.imgur.com/uRwqF2L.png)
+![Command Line Interface](https://i.imgur.com/uRwqF2L.png)
   
 ## Tested versions:
 
