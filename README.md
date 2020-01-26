@@ -4,7 +4,8 @@
 ![Screenshot](https://i.imgur.com/iJ0z7vn.png)
 
 [![HitCount](http://hits.dwyl.io/meik97/XSpotify.svg)](https://github.com/meik97/XSpotify)
-[![HitCount](https://img.shields.io/github/downloads/meik97/XSpotify/total.svg?color=green)](https://github.com/meik97/XSpotify/releases)
+[![Downloads](https://img.shields.io/github/downloads/meik97/XSpotify/total.svg?color=green)](https://github.com/meik97/XSpotify/releases)
+[![Discord](https://discordapp.com/api/guilds/671076782467973130/widget.png)](http://discord.gg/EByRp27)
 
 
 ## Features:
