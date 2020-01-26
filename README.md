@@ -11,7 +11,8 @@
 
 - DRM bypass: Download all songs directly from Spotify servers --> https://www.youtube.com/watch?v=E8a-dB1HIQU
 - Enabled skip button for ads (including audio and video ads)
-- Auto skipping audio ads
+- Auto skipping of audio based ads
+- Quality and format: 160 kb/s, 32-bit, 44100 Hz .ogg
 
 ## How to use:
 
