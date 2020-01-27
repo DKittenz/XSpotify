@@ -9,6 +9,12 @@ int main()
 	system("start Spotify.exe");
 	Sleep(2000);
 	HWND hWnd = FindWindow(0, L"Spotify Free");
+
+	if (!IsWindow(hWnd))
+	{
+		hWnd = FindWindow(0, L"Spotify Premium");
+	}
+	
 	GetWindowThreadProcessId(hWnd, &proccess_ID);
 
 	HANDLE h = OpenProcess(PROCESS_ALL_ACCESS, false, proccess_ID);
