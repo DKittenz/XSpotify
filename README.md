@@ -34,7 +34,7 @@ After you have started XSpotify, the console window will appear.
   
 ## Tested versions:
 
-- 1.1.24.91.g4ca6d5eb (15.01.2020)
+- 1.1.25.559.g85cf5e4c (30.01.2020)
 
 ## Known bugs:
 
