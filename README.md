@@ -40,3 +40,7 @@ After you have started XSpotify, the console window will appear.
 
 - Crash after song skipping
 
+## Thanks to:
+- fortender (https://github.com/fortender)
+- sanjaykdragon (https://github.com/sanjaykdragon)
+
