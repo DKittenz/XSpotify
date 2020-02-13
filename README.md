@@ -15,6 +15,7 @@
 - Auto skipping function for audio based ads (Disabled in current build)
 - Quality and format (free account): 160 kb/s, 32-bit, 44100 Hz .ogg
 - Quality and format (premium account): 320 kb/s, 32-bit, 44100 Hz .ogg
+- Metadata: artist, title, album and album cover
 
 
 ## Requirements:
@@ -44,6 +45,6 @@ After you have started XSpotify, the console window will appear.
 - fortender (https://github.com/fortender)
 - pr8x (https://github.com/pr8x)
 
-##Tools:
+## Tools:
 - OpenSSL
 - TagLib
