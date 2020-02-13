@@ -43,3 +43,7 @@ After you have started XSpotify, the console window will appear.
 ## Thanks to:
 - fortender (https://github.com/fortender)
 - pr8x (https://github.com/pr8x)
+
+##Tools:
+- OpenSSL
+- TagLib
