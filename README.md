@@ -11,7 +11,7 @@
 ## Features:
 
 - DRM bypass: Download all songs directly from Spotify servers --> https://www.youtube.com/watch?v=E8a-dB1HIQU
-- Enabled the skip button for ads blocking (Disabled in current build)
+- Enabled the skip button for ads blocking
 - Auto skipping function for audio based ads (Disabled in current build)
 - Quality and format (free account): 160 kb/s, 32-bit, 44100 Hz .ogg
 - Quality and format (premium account): 320 kb/s, 32-bit, 44100 Hz .ogg
