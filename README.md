@@ -26,7 +26,7 @@ You need Microsoft's [Visual C++ Redistributable Runtimes](https://github.com/ab
 
 - [Download XSpotify](https://github.com/meik97/XSpotify/releases)
 - Place all files into your Spotify profile, it's located under `%appdata%\Spotify`.
-- Manually start XSpotify
+- Start Spotify
 
 After you have started XSpotify, the console window will appear. 
   
